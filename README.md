@@ -16,4 +16,4 @@
 
 ## Freelance work
 
-I'm available for freelance work on any of these libraries above, if your company needs one of them and some feature is missing or bugged. [Contact me](www.olivierclero.com) for more information.
+I'm available for freelance work on any of these libraries above, if your company needs one of them and some feature is missing or bugged. [Contact me](https://www.olivierclero.com) for more information.
