@@ -9,10 +9,16 @@
 ## Qt libraries
 
 - 🍊 [Qlementine](https://oclero.github.io/qlementine): a modern QStyle for desktop applications.
+- 🖌️ [Qlementine Icons](https://oclero.github.io/qlementine-icons): a general-purpose vector icon library (350+ icons).
 - ♻️ [QtUpdater](https://github.com/oclero/qtupdater): an auto-update system for Qt applications.
 - 📨 [QtAppInstanceManager](https://github.com/oclero/qtappinstancemanager): a more flexible replacement for QtSingleApplication.
 - 🔧 [QtUtils](https://github.com/oclero/qtutils): the missing essential tools in the Qt SDK.
 - 🌙 [Luna](https://github.com/oclero/luna): a QML/QtQuick components library.
+
+## Other projects
+
+- 🐍 [IcoUtil](https://github.com/oclero/icoutil): a Python package (lib and CLI) to make .ICO files.
+
 
 ## Freelance work
 
